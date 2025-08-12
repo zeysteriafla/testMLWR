@@ -67,6 +67,7 @@ namespace zappy_zappy_zappy.exe
         public gdi()
         {
             InitializeComponent();
+            this.Load += new System.EventHandler(this.gdi_Load);
         }
 
         private void gdi_Load(object sender, EventArgs e)
@@ -121,7 +122,7 @@ namespace zappy_zappy_zappy.exe
         }
 
         Icon icon = Extract("shell32.dll", 254, true);
-        Image image = Image.FromFile(@"C:\Users\lakri\source\repos\zappy zappy zappy.exe\zappy zappy zappy.exe\obj\Debug\TempPE/warning.png");
+        Image image = Image.FromFile(@"C:\Users\vboxuser\source\repos\zappy zappy zappy.exe\zappy zappy zappy.exe\obj\Debug\TempPE/warning.png");
 
         private void timer2_Tick(object sender, EventArgs e)
         {
