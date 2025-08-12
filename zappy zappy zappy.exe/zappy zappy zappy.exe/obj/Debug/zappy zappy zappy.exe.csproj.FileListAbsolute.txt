@@ -1,0 +1,10 @@
+C:\Users\lakri\source\repos\zappy zappy zappy.exe\zappy zappy zappy.exe\bin\Debug\zappy zappy zappy.exe.exe.config
+C:\Users\lakri\source\repos\zappy zappy zappy.exe\zappy zappy zappy.exe\bin\Debug\zappy zappy zappy.exe.exe
+C:\Users\lakri\source\repos\zappy zappy zappy.exe\zappy zappy zappy.exe\bin\Debug\zappy zappy zappy.exe.pdb
+C:\Users\lakri\source\repos\zappy zappy zappy.exe\zappy zappy zappy.exe\obj\Debug\zappy zappy zappy.exe.csproj.AssemblyReference.cache
+C:\Users\lakri\source\repos\zappy zappy zappy.exe\zappy zappy zappy.exe\obj\Debug\zappy_zappy_zappy.exe.gdi.resources
+C:\Users\lakri\source\repos\zappy zappy zappy.exe\zappy zappy zappy.exe\obj\Debug\zappy_zappy_zappy.exe.Properties.Resources.resources
+C:\Users\lakri\source\repos\zappy zappy zappy.exe\zappy zappy zappy.exe\obj\Debug\zappy zappy zappy.exe.csproj.GenerateResource.cache
+C:\Users\lakri\source\repos\zappy zappy zappy.exe\zappy zappy zappy.exe\obj\Debug\zappy zappy zappy.exe.csproj.CoreCompileInputs.cache
+C:\Users\lakri\source\repos\zappy zappy zappy.exe\zappy zappy zappy.exe\obj\Debug\zappy zappy zappy.exe.exe
+C:\Users\lakri\source\repos\zappy zappy zappy.exe\zappy zappy zappy.exe\obj\Debug\zappy zappy zappy.exe.pdb
